@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LivingTechNL
+- 👀 I’m interested in Home Automation
+- 💞️ I’m looking to collaborate on Home Automation Integration
+- 📫 How to reach me info@livingtech.nl
